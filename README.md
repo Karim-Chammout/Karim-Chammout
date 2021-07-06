@@ -73,6 +73,16 @@
    />
   </a>
   <a 
+     href="https://redux-toolkit.js.org/" 
+     target="_blank">
+  <img 
+     src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" 
+     alt="redux-toolkit" 
+     width="40" 
+     height="40"
+   />
+  </a>
+  <a 
      href="https://git-scm.com/" 
      target="_blank">
     <img 
