@@ -42,6 +42,16 @@
     />
   </a>
   <a 
+     href="https://tailwindcss.com/" 
+     target="_blank">
+  <img 
+     src="https://user-images.githubusercontent.com/61624676/124572649-7913f380-de51-11eb-95b1-19c779ae0759.png" 
+     alt="sass" 
+     width="40" 
+     height="40"
+   />
+  </a>
+  <a 
      href="https://sass-lang.com" 
      target="_blank">
   <img 
