@@ -73,6 +73,16 @@
    />
   </a>
   <a 
+     href="https://www.typescriptlang.org/" 
+     target="_blank">
+  <img 
+     src="https://user-images.githubusercontent.com/61624676/124572145-17538980-de51-11eb-9b88-f79143203edc.png" 
+     alt="react" 
+     width="40" 
+     height="40"
+   />
+  </a>
+  <a 
      href="https://redux-toolkit.js.org/" 
      target="_blank">
   <img 
