@@ -76,7 +76,7 @@
      href="https://redux-toolkit.js.org/" 
      target="_blank">
   <img 
-     src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" 
+     src="https://user-images.githubusercontent.com/61624676/124571393-6816b280-de50-11eb-9102-51f06e20520d.png" 
      alt="redux-toolkit" 
      width="40" 
      height="40"
