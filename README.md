@@ -45,7 +45,7 @@
      href="https://tailwindcss.com/" 
      target="_blank">
   <img 
-     src="https://user-images.githubusercontent.com/61624676/124572649-7913f380-de51-11eb-95b1-19c779ae0759.png" 
+     src="https://user-images.githubusercontent.com/61624676/124572902-b2e4fa00-de51-11eb-829d-bc26a02dab3d.png" 
      alt="sass" 
      width="40" 
      height="40"
