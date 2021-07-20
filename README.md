@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kairm Chammout</h1>
 <h2 align="center">I'm a Front-end developer </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-chammout" alt="karim-chammout" /> </p>
+<h2>Glad to see you here! <img src="https://komarev.com/ghpvc/?username=karim-chammout" alt="karim-chammout" /> </h2>  
+
+
 
 
 
