@@ -13,7 +13,6 @@
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/karim_chammout) [Linkedin](https://www.linkedin.com/in/karim-chammout/) <a href="mailto:abdalkaremsh200@gmail.com">Gmail</a>
-- 😄 Pronouns: He/Him 
 
 
 
