@@ -9,9 +9,8 @@
   />
 </h2>
 
-📫 How to reach me: [Twitter](https://twitter.com/karim_chammout) -
+📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/karim-chammout/) -
-[Instagram](https://www.instagram.com/karim_chammout/) -
 <a href="mailto:chammout.karim@gmail.com">Gmail</a>
 
 <h3>Languages and Tools:</h3>
